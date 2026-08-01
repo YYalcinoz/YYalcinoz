@@ -62,7 +62,3 @@ routes side by side), custom Semgrep rules, and a recon automation toolkit.</sub
 **Environment** — Linux, Docker, Git, Vim
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YYalcinoz&show_icons=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&hide=issues" />
-</p>
