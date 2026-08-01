@@ -45,19 +45,11 @@ routes side by side), custom Semgrep rules, and a recon automation toolkit.</sub
 
 ---
 
-### Writeups
-
-I document the boxes and labs I solve, focusing on the reasoning rather than the commands.
-
-- [CTF writeups](https://github.com/YYalcinoz?tab=repositories) — TryHackMe rooms and lab walkthroughs
-
----
-
 ### Certifications
 
 | Certification | Issuer | Year |
 |---------------|--------|------|
-| Blue Team Junior Analyst (BTJA) | Security Blue Team | 2025 |
+| Blue Team Junior Analyst (BTJA) | Security Blue Team | 2026 |
 
 ---
 
