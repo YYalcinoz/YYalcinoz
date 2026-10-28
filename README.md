@@ -1,64 +1,51 @@
 <h2 align="center">Yağız Yalçınöz</h2>
 
 <p align="center">
-  <b>Software Engineering Student</b> · Web Application Security · Blue Team Junior Analyst
+  <b>Software Engineering Student</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yağız-yalçınöz-2a220a35b"><img src="https://img.shields.io/badge/LinkedIn-05122A?style=flat&logo=linkedin&logoColor=0A66C2" /></a>&nbsp;
-  <a href="https://tryhackme.com/p/Yag1Zzz"><img src="https://img.shields.io/badge/TryHackMe-05122A?style=flat&logo=tryhackme&logoColor=88CC14" /></a>
+  <a href="https://www.linkedin.com/in/yağız-yalçınöz-2a220a35b"><img src="https://img.shields.io/badge/LinkedIn-05122A?style=flat" /></a>&nbsp;
+  <a href="https://tryhackme.com/p/Yag1Zzz"><img src="https://img.shields.io/badge/TryHackMe-05122A?style=flat" /></a>
 </p>
 
 ---
 
-```bash
-$ whoami
-> Software engineering student at Çankaya University
-> Started in defense (Blue Team Junior Analyst), moving toward offensive security
-> Focused on web application penetration testing and secure code review
-> I write applications so I can understand how they break
+```console
+yagiz@yalcinoz:~$ whoami
+software engineering student
+
+yagiz@yalcinoz:~$ cat interests.txt
+security  →  web application security · secure code review · malware analysis
+software  →  backend & CLI tools · AI agent workflows · systems programming
+
+yagiz@yalcinoz:~$ cat motto.txt
+Semper Anticus
 ```
-
----
-
-### Focus
-
-Most of my work sits at the intersection of **writing code** and **breaking it**. My background in
-defensive security shapes how I approach offense: I care about how an attack looks from the
-other side, not just whether it lands.
-
-**Currently working through:**
-- PortSwigger Web Security Academy — systematically, module by module
-- Source code review: tracing user input from source to sink in real codebases
-- Building intentionally vulnerable applications, then writing the fixed version alongside them
-
----
-
-### Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**malware-analyzer**](https://github.com/YYalcinoz/malware-analyzer) | Static malware analysis platform. PE header parsing and entropy-based packer detection, YARA rule scanning, MITRE ATT&CK technique mapping, threat intelligence lookups, and STIX 2.1 report generation. | Python · Flask · Docker |
-
-<sub>More projects in progress — a multi-module vulnerable web application (vulnerable and patched
-routes side by side), custom Semgrep rules, and a recon automation toolkit.</sub>
-
----
-
-### Certifications
-
-| Certification | Issuer | Year |
-|---------------|--------|------|
-| Blue Team Junior Analyst (BTJA) | Security Blue Team | 2026 |
 
 ---
 
 ### Toolkit
 
-**Languages** — Python, Java, C, Bash, SQL
+**Languages**
 
-**Security** — Burp Suite, YARA, Wireshark, MITRE ATT&CK
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk)
+![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c)
+![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=nodedotjs)
+![SQL](https://img.shields.io/badge/SQL-05122A?style=flat)
 
-**Environment** — Linux, Docker, Git, Vim
+**Environment**
 
----
+![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-05122A?style=flat&logo=virtualbox)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql)
+![WSL](https://img.shields.io/badge/WSL-05122A?style=flat)
+
+**Security** — Burp Suite, Metasploit, Nmap, Gobuster, Wireshark, YARA, MITRE ATT&CK
+
+**Malware analysis lab** — FLARE-VM, REMnux, VirusTotal API
