@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yağız-yalçınöz-2a220a35b"><img src="https://img.shields.io/badge/LinkedIn-05122A?style=flat" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/yagiz-yalcinoz"><img src="https://img.shields.io/badge/LinkedIn-05122A?style=flat" /></a>&nbsp;
   <a href="https://tryhackme.com/p/Yag1Zzz"><img src="https://img.shields.io/badge/TryHackMe-05122A?style=flat" /></a>
 </p>
 
